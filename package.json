@@ -1,0 +1,22 @@
+{
+  "name": "blake3-ts",
+  "version": "0.1.0",
+  "description": "Simple Blake3 implementation in typescript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fundthmcalculus/blake3-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fundthmcalculus/blake3-ts/issues"
+  },
+  "homepage": "https://github.com/fundthmcalculus/blake3-ts#readme",
+  "dependencies": {
+    "fastestsmallesttextencoderdecoder": "^1.0.22"
+  }
+}
